@@ -1,2 +1,0 @@
-# Informatik
-Meine Informatik "repository".
