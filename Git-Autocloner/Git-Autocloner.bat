@@ -25,7 +25,7 @@ git commit -m "%commit%"
 cls
 echo Press Enter to push the changes to the server
 pause >nul
-git push origin main
+git push
 cls
 echo Changes got pushed, press any key to end the process
 pause >nul
